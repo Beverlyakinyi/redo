@@ -1,0 +1,46 @@
+#container{
+    background-color: rgb(122, 24, 24);
+    text-decoration: none;color: beige;
+    font-style: italic;
+    gap: 50%;
+    
+    
+
+   
+    
+}
+#bull{
+    display: flex;
+    gap: 10%;
+    background-color: black;
+    color: beige;
+    background-color: brown;
+}
+#book{
+    display: flex;
+    gap: 10%;
+    background-color: brown;
+
+}
+#container1{
+    display: flex;
+    background-repeat: no-repeat;
+
+}
+#container2{
+    display: flex;
+}
+#container3{
+    display: flex;
+
+}
+#conatiner4{
+    text-align: center;
+    background-origin: padding-box;
+    margin: 50%;
+    
+}
+#container5{
+    display: flex;
+    gap: 20%;
+}
